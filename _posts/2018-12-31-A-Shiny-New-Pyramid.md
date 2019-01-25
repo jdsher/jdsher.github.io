@@ -12,7 +12,11 @@ Alright, a lot of my work is doing that, actually. And so, eventually I got to t
 
 If you want to stop reading my blather and play around with the app, go [here](https://jdsher.shinyapps.io/PyramidApp/). Otherwise, keep reading for the background.  
 
-The central concept of the app was to have an interactive web map of census tracts, where I would be able to select - and most importantly, DESELECT - census tracts by simply clicking anywhere in the polygon. Easier said than done! Turns out, Shiny is very specific about lists of selected items and it took a kind of hacky-ish mechanism to create the select/deselect protocol. On top of that, I wanted the selected polygons to be feed into a population table summary that spat out a population pyramid with stacked POC/White non-hispanic populations. After a few attempts over the course of a month, and a redesign to use shinydashboard, I finally got the app to where I wanted.
+The central concept of the app was to have an interactive web map of census tracts, where I would be able to select - and most importantly, DESELECT - census tracts by simply clicking anywhere in the polygon. 
+
+Easier said than done! 
+
+Turns out, Shiny is very specific about lists of selected items and it took a kind of hacky-ish mechanism to create the select/deselect protocol. On top of that, I wanted the selected polygons to be feed into a population table summary that spat out a population pyramid with stacked POC/White non-hispanic populations. After a few attempts over the course of a month, and a redesign to use shinydashboard, I finally got the app to where I wanted.
 
 ![the pyramid](https://github.com/jdsher/jdsher.github.io/blob/master/images/pyramid.gif "Eminently clickable")
 
