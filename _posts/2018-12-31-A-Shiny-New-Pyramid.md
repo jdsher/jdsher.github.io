@@ -18,7 +18,7 @@ Easier said than done!
 
 Turns out, Shiny is very specific about lists of selected items and it took a kind of hacky-ish mechanism to create the select/deselect protocol. On top of that, I wanted the selected polygons to be feed into a population table summary that spat out a population pyramid with stacked POC/White non-hispanic populations. After a few attempts over the course of a month, and a redesign to use shinydashboard, I finally got the app to where I wanted.
 
-![alt text](https://github.com/jdsher/jdsher.github.io/blob/master/images/pyramid.gif "Eminently clickable")
+![alt text](./master/images/pyramid.gif "Eminently clickable")
 
 All credit for the select/deselect code goes to Stackoverflow user "lauren" for detailing their methods in [a post](https://stackoverflow.com/questions/41104576/changing-styles-when-selecting-and-deselecting-multiple-polygons-with-leaflet-sh) from 2016, which I was able to (almost painlessly) port into my app as seen below:
 
