@@ -2,6 +2,9 @@
 layout: post
 title: A Shiny New Year...
 ---
+I'd like to talk to about pyramids today.
+
+![alt text](https://media.giphy.com/media/l2Je7PWhXi9m3Ar04/giphy.gif "Wait, keep reading!")
 
 Part of my research work at PSU entails looking at ACS/Census/LODES/LEHD data to suss out broader trends that will change the way we plan our urban growth and shape our policies.
 
@@ -13,7 +16,7 @@ The central concept of the app was to have an interactive web map of census trac
 
 All credit for the select/deselect code goes to Stackoverflow user "lauren" for detailing their methods in [a post](https://stackoverflow.com/questions/41104576/changing-styles-when-selecting-and-deselecting-multiple-polygons-with-leaflet-sh) from 2016, which I was able to (almost painlessly) port into my app as seen below:
 
-``` 
+```r
 observeEvent(input$map_shape_click, {
     
     click <- input$map_shape_click
