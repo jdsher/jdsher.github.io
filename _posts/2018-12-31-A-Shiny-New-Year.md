@@ -13,7 +13,7 @@ The central concept of the app was to have an interactive web map of census trac
 
 All credit for the select/deselect code goes to Stackoverflow user "lauren" for detailing their methods in [a post](https://stackoverflow.com/questions/41104576/changing-styles-when-selecting-and-deselecting-multiple-polygons-with-leaflet-sh) from 2016, which I was able to (almost painlessly) port into my app as seen below:
 
-``` {r selector, echo = TRUE}
+``` 
 observeEvent(input$map_shape_click, {
     
     click <- input$map_shape_click
