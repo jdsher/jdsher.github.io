@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Shiny New Year...
+title: A Shiny New Pyramid...
 ---
 I'd like to talk to about pyramids today.
 
