@@ -7,4 +7,4 @@ Up today: a brief little mapping exercise in leaflet for R, combined with htmlwi
 
 The topic of the map is the ACS County-to-County migration models, specifically filtered to show migration to Seattle, Portland, and San Francisco. I also wanted to use the very cool "tricolore" package that allows you to create tri-partite choropleth maps that can depict combinations of three different variables (in this case, the percentages of migrants moving to the three different metros).
 
- <iframe frameborder=0 style="min-width: 200px; width: 60%; height: 460px;" scrolling="no" seamless="seamless" srcdoc='<html><body><style type="text/css">.gist .gist-data { height: 400px; }</style><script src="https://github.com/jdsher/jdsher.github.io/blob/master/c2c_map.html"></script></body></html>'></iframe>
+ <iframe frameborder=0 style="min-width: 200px; width: 60%; height: 460px;" scrolling="no" seamless="seamless src="../c2c_map.html"></html>'></iframe>
