@@ -11,7 +11,7 @@ Generally it takes people a minute to break down what they're looking at when yo
 
 ![tern](../images/tern.jpeg)
 
-The converging lines, in this case, intersect over the average center of the data. This translates roughly to saying that in the average county, the share of migrants was about 20% to Portland, 35% to San Francisco, and 45% to Seattle. Keeping in mind that this is the 5-year ACS data feeding into this map, which means that it is the essentially aggregate migration over that time period, . 
+The converging lines, in this case, intersect over the average center of the data. This translates roughly to saying that in the average county, the share of migrants was about 20% to Portland, 35% to San Francisco, and 45% to Seattle. Keeping in mind that this is the 5-year ACS data feeding into this map, which means that we're looking at essentially aggregate migration over that time period, <em>as captured in surveys</em>. So, that means take it as an interesting but not necessarily accurate depiction of broad trends over mutliple years. 
 
 <iframe width="100%" height="500" src="../c2c_map.html" frameborder="0"></iframe>
                        
