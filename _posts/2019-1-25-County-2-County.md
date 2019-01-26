@@ -11,5 +11,7 @@ It's not a typical choropleth, and takes people a minute to break down what they
 
 ![tern](../images/tern.jpeg)
 
+The converging lines, in this case, intersect over the average center of the data. This translates roughly to saying that in the average county, the share of migrants was about 20% to Portland, 35% to San Francisco, and 45% to Seattle. Neat!
+
 <iframe width="100%" height="500" src="../c2c_map.html" frameborder="0"></iframe>
                        
