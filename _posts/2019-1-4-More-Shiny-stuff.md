@@ -1,6 +1,6 @@
 ---
 layout: post
-title: More shiny stuff
+title: More Shiny stuff
 ---
 
 In the interest of just slappin all of my Shiny cards on the table, here are the links to the other Shiny apps I've created so far in my R journey (that I can reasonably share).
