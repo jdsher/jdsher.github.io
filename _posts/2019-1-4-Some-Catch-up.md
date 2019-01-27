@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Some ketchup
+title: Some catch-up
 ---
 
 In the interest of just slappin all of my Shiny cards on the table, here are the links to the other Shiny apps I've created so far in my R journey (that I can reasonably share).
