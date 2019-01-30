@@ -9,4 +9,4 @@ Just a quick post today to show some progress on another R mapping hobby project
 <img src="../images/sf_svg.svg">
 </p>
 
-![Alt Text](../images/sf_svg.svg)
+[Alt Text](../images/sf_svg.svg)
