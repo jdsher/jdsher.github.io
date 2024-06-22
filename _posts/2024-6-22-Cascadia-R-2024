@@ -1,0 +1,6 @@
+---
+layout: post
+title: Cascadia R Conf - 2024 Slides
+---
+
+{% include r_cascadia_presentation_cartography.html %}
